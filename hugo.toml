@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Jerome Rasky"
-  headline = "Software developer at AWS"
+  headline = "Senior Software Engineer at AWS"
   image = "profile.jpg"  # path relative to static directory
 
   links = [
